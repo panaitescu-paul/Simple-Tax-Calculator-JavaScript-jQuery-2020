@@ -18,7 +18,7 @@
 
 <p align="center">
   <hr>
-  <img width="100%" height="100%" text-align="center" src="https://github.com/panaitescu-paul/Simple-Tax-Calculator-JavaScript-jQuery-2020/blob/master/screenshots/1.png">
-  <img width="100%" height="100%" text-align="center" src="https://github.com/panaitescu-paul/Simple-Tax-Calculator-JavaScript-jQuery-2020/blob/master/screenshots/2.png">
+  <img width="80%" height="80%" text-align="center" src="https://github.com/panaitescu-paul/Simple-Tax-Calculator-JavaScript-jQuery-2020/blob/master/screenshots/1.png">
+  <img width="80%" height="80%" text-align="center" src="https://github.com/panaitescu-paul/Simple-Tax-Calculator-JavaScript-jQuery-2020/blob/master/screenshots/2.png">
   <hr>
 </p>
