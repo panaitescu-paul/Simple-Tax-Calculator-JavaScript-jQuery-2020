@@ -17,9 +17,6 @@
 ## Project Overview:
 
 <p align="center">
-  <hr>
-  <img width="80%" height="80%" text-align="center" src="https://github.com/panaitescu-paul/Simple-Tax-Calculator-JavaScript-jQuery-2020/blob/master/screenshots/1.png">
-  <hr>
-  <img width="80%" height="80%" text-align="center" src="https://github.com/panaitescu-paul/Simple-Tax-Calculator-JavaScript-jQuery-2020/blob/master/screenshots/2.png">
-  <hr>
+  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Simple-Tax-Calculator-JavaScript-jQuery-2020/blob/master/screenshots/1.png">
+  <img width="45%" height="45%" src="https://github.com/panaitescu-paul/Simple-Tax-Calculator-JavaScript-jQuery-2020/blob/master/screenshots/2.png">
 </p>
